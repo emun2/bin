@@ -1,0 +1,2 @@
+# bin
+random personal scripts
